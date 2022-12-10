@@ -1,0 +1,27 @@
+{
+  "name": "smartcontracts-interaction-with-nodejs",
+  "version": "1.0.0",
+  "description": "Generation of JWT Token for authorisation and accessing the resource from the blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryths23/SmartContracts-interaction-with-NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryths23/SmartContracts-interaction-with-NodeJS/issues"
+  },
+  "homepage": "https://github.com/ryths23/SmartContracts-interaction-with-NodeJS#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
